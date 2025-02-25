@@ -13,7 +13,6 @@
 ---
 
 ### 🌐 Connect with Me
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30">](https://twitter.com/ocrcb)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30">](https://linkedin.com/in/oscar-caballero-gutierrez)
 
 ---
