@@ -8,7 +8,7 @@
 ### 💼 About Me
 - 🔭 Currently working at [Bisite Research Group](https://bisite.usal.es/es)
 - 🌱 Learning **Vue & Tailwind**
-- 📫 Reach me at **os43cg@hotmail.com**
+- 📫 Reach me at **os43cg.contact@gmail.com**
 
 ---
 
