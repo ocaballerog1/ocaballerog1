@@ -2,7 +2,7 @@
 
 <br>
 
-# Oscar Caballero Gutiérrez
+# Óscar Caballero Gutiérrez
 
 <a href="https://team.mindgress.com/" target="_blank">My portfolio</a>
 
