@@ -59,29 +59,7 @@ Crafting clean, maintainable code that solves real problems.
 
 <br>
 
-### Analytics
 
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ocaballerog1&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&icon_color=ffffff&title_color=ffffff&text_color=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ocaballerog1&show_icons=true&theme=default&hide_border=true&icon_color=000000&title_color=000000&text_color=000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ocaballerog1&show_icons=true&theme=default&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ocaballerog1&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ocaballerog1&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=000000&text_color=000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocaballerog1&layout=compact&langs_count=6&theme=default&hide_border=true" />
-</picture>
-
-</div>
-
-<br>
-
----
 
 <br>
 
