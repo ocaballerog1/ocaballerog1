@@ -1,45 +1,100 @@
-## 👋 Hi, I'm Óscar
-### 🚀 Full Stack Developer from Spain 🇪🇸
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ocaballerog1&label=Profile%20views&color=0e75b6&style=flat)
+<br>
 
----
+# Oscar Caballero Gutiérrez
 
-### 💼 About Me
-- 🔭 Currently working at [Bisite Research Group](https://bisite.usal.es/es)
-- 🌱 Learning **Vue & Tailwind**
-- 📫 Reach me at **os43cg.contact@gmail.com**
+<a href="https://team.mindgress.com/" target="_blank">My portfolio</a>
 
----
+**Full Stack Developer**
 
-### 🌐 Connect with Me
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30">](https://linkedin.com/in/oscar-caballero-gutierrez)
+<br>
 
----
+Salamanca, Spain · Bisite Research Group
 
-### 🛠️ Tech Stack
-#### 🎨 Frontend
-<img draggable="false" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="Bulma" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40">
-
-#### ⚙️ Backend
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40">
-
-#### 🗄️ Databases
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40">
-
-#### 🔧 Other Technologies
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40">
+<br>
 
 ---
 
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ocaballerog1&show_icons=true&locale=en&layout=compact)
+<br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ocaballerog1)
+Building scalable web applications with modern technologies.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocaballerog1&show_icons=true&locale=en)
+Crafting clean, maintainable code that solves real problems.
+
+<br>
 
 ---
 
-### 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ocaballerog1)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+<br>
+
+### Stack
+
+<br>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+### Analytics
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ocaballerog1&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&icon_color=ffffff&title_color=ffffff&text_color=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ocaballerog1&show_icons=true&theme=default&hide_border=true&icon_color=000000&title_color=000000&text_color=000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ocaballerog1&show_icons=true&theme=default&hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ocaballerog1&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ocaballerog1&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=000000&text_color=000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocaballerog1&layout=compact&langs_count=6&theme=default&hide_border=true" />
+</picture>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+### Connect
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-caballero-gutierrez)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:os43cg.contact@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/ocaballerog1)
+
+</div>
+
+
